@@ -1,0 +1,34 @@
+﻿program GET_7%
+
+READ a
+READ b
+READ c
+
+INIT d
+INIT e
+INIT cem
+
+
+IF a >= 1000 && a < 10000 && b >= 1000 && b < 10000 && c >= 1000 && c < 10000 THEN
+
+	   CALCULATE a = a * 1 / 100
+
+       CALCULATE b = b * 2 / 100
+
+       SET e = c * 3 / 100
+
+       SET d = a - b - e
+
+       CALCULATE c = c * 7 / 100
+
+       SET cem = c + d
+
+       PRINT cem
+
+WHILE
+
+    PRINT "4 Reqemli deyl"
+
+ENDIF
+
+end program

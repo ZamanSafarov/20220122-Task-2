@@ -1,0 +1,19 @@
+﻿program Get_clone_of_number
+
+READ a
+
+IF a >= 100 && a < 1000 THEN
+
+    CALCULATE a = a * 1000;
+
+    CALCULATE a += 444;
+
+    PRINT a
+
+ELSE
+
+    PRINT "3 reqemli deyl"
+
+ENDIF
+
+end program

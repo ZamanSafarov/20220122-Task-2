@@ -1,0 +1,6 @@
+﻿1.
+3 reqemli eded verilib. Bu ededin axirina hemin ededdin ozunu yapishdir.
+
+INPUT: a = 444;
+
+OUTPUT: 444444;

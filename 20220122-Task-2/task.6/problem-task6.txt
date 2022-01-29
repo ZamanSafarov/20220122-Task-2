@@ -1,0 +1,7 @@
+﻿1.
+4 reqemli eded verilib. Bu ededin evvel 20%-ni , sonra ise cavabin 10% tap. 
+             Alinan cavabin kvadratini tap.
+INPUT: a = 2844
+
+
+OUTPUT: 3235.3344

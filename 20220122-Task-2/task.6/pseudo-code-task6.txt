@@ -1,0 +1,23 @@
+﻿program Get_Double
+
+READ a
+
+INIT b
+
+IF a >= 1000 && a < 10000 THEN
+	
+	CALCULATE a = a * 20 / 100
+
+    CALCULATE a = a * 10 / 100
+
+	SET b = a * a
+
+	PRINT b
+
+WHILE
+	
+	PRINT "4 Reqemli deyl."
+
+ENDIF
+
+end program

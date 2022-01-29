@@ -1,0 +1,16 @@
+D:\Development\P513\20220122-Task-2\task.13\bin\Debug\net5.0\task.13.exe
+D:\Development\P513\20220122-Task-2\task.13\bin\Debug\net5.0\task.13.deps.json
+D:\Development\P513\20220122-Task-2\task.13\bin\Debug\net5.0\task.13.runtimeconfig.json
+D:\Development\P513\20220122-Task-2\task.13\bin\Debug\net5.0\task.13.runtimeconfig.dev.json
+D:\Development\P513\20220122-Task-2\task.13\bin\Debug\net5.0\task.13.dll
+D:\Development\P513\20220122-Task-2\task.13\bin\Debug\net5.0\ref\task.13.dll
+D:\Development\P513\20220122-Task-2\task.13\bin\Debug\net5.0\task.13.pdb
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\task.13.csproj.AssemblyReference.cache
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\task.13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\task.13.AssemblyInfoInputs.cache
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\task.13.AssemblyInfo.cs
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\task.13.csproj.CoreCompileInputs.cache
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\task.13.dll
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\ref\task.13.dll
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\task.13.pdb
+D:\Development\P513\20220122-Task-2\task.13\obj\Debug\net5.0\task.13.genruntimeconfig.cache

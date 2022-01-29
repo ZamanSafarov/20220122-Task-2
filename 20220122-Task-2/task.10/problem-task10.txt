@@ -1,0 +1,9 @@
+﻿1.
+3 dene 4 reqemli eded verilib. I ededin 1%-ni, II ededin 2% , III ededin 3 % tap.
+  Neticeleri bir birinden cix. Alinan cavabin ustune III ededin 7% faizini gel
+
+  INPUT: a = 2542
+		 b = 4904
+		 c = 5872
+
+  OUTPUT: -248.82

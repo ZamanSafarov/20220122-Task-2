@@ -1,0 +1,16 @@
+D:\Development\P513\20220122-Task-2\task.12\bin\Debug\net5.0\task.12.exe
+D:\Development\P513\20220122-Task-2\task.12\bin\Debug\net5.0\task.12.deps.json
+D:\Development\P513\20220122-Task-2\task.12\bin\Debug\net5.0\task.12.runtimeconfig.json
+D:\Development\P513\20220122-Task-2\task.12\bin\Debug\net5.0\task.12.runtimeconfig.dev.json
+D:\Development\P513\20220122-Task-2\task.12\bin\Debug\net5.0\task.12.dll
+D:\Development\P513\20220122-Task-2\task.12\bin\Debug\net5.0\ref\task.12.dll
+D:\Development\P513\20220122-Task-2\task.12\bin\Debug\net5.0\task.12.pdb
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\task.12.csproj.AssemblyReference.cache
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\task.12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\task.12.AssemblyInfoInputs.cache
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\task.12.AssemblyInfo.cs
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\task.12.csproj.CoreCompileInputs.cache
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\task.12.dll
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\ref\task.12.dll
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\task.12.pdb
+D:\Development\P513\20220122-Task-2\task.12\obj\Debug\net5.0\task.12.genruntimeconfig.cache
